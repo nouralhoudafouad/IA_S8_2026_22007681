@@ -3,7 +3,8 @@
 > **Source des données :** Kaggle — *Vehicle Loan Default Prediction* (avikpaul4u)
 > **Type de problème :** Classification binaire supervisée
 > **Variable cible :** `LOAN_DEFAULT` (0 = pas de défaut, 1 = défaut)
-
+# FOUAD NOUR AL HOUDA 
+![photo de nour al houda  (1)](https://github.com/user-attachments/assets/10d95830-7bde-4515-aebb-a451213a2293)
 ---
 
 ## 1. Contexte et Objectif
